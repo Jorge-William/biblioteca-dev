@@ -1,0 +1,29 @@
+.page-title{
+  text-align: center;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 100px auto auto auto;
+  align-items: center;
+  color: azure;
+  justify-content: center;
+}
+
+.item{
+  justify-content: space-between;
+  padding: 15px;
+  background-color: tomato;
+  border-radius: 10px;
+  width:fit-content;
+  height: auto;
+  margin: 10px;
+  border: solid grey 1px;
+
+}
+
+.image{
+  height: 100px;
+  width: 180px;
+  background-color: rgb(212, 211, 211);
+}
